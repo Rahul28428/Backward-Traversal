@@ -1,3 +1,0 @@
-﻿dog:cat,mat,rat
-mat:fat,bat
-rat:net
