@@ -1,4 +1,0 @@
-﻿four:eight,nine,ten
-one:four,three,two
-three:seven,six
-two:five
